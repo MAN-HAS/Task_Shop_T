@@ -1,0 +1,97 @@
+.header{
+    text-align: center;
+    border-bottom: 15px solid whitesmoke;
+    border-right:10px solid whitesmoke;
+    border-top: 15px solid;
+    border-left: 10px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:teal;
+    
+    
+}
+
+.foot{text-align:center;
+    margin-top: 150px;
+    border-bottom: 10px solid whitesmoke;
+    border-right:5px solid whitesmoke;
+    border-top: 10px solid;
+    border-left: 5px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:teal;
+}
+.content{
+    text-transform: capitalize;
+
+}
+.sub-T{
+    text-align: right;
+}
+
+.nameh{
+    font-size: 200%;
+}
+.contact{
+    padding-top: 10%;
+    padding-left: 10%;
+    
+}
+.c1{
+    font-size:200%;
+}
+.c2{
+    font-size: 150%;
+}
+.content{
+    text-align: center;
+  }
+  .P1{
+    font-family: sans-serif;
+  }
+  .P2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(81, 213, 49);
+    font-size: large;
+    font-weight: bolder;
+  }
+  .P3{
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(251, 132, 42);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .P4{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 250%;
+    color: red;
+  }
+  .P5{
+    font-size: 150%;
+  }
+  .ZF{
+    text-align:center;
+    font-size: 550%;
+    
+  }
+  .z{
+    color:teal;
+  }
+  .f{
+    
+    color:deeppink;
+  }
+  .ft{
+    padding-top: 5%;
+    
+  }
+  .zf1,.zf4,.zf7{
+    font-size: 200%;
+  }
+  .zf2,.zf5,.zf8{
+    font-size: 150%;
+  }
+  .zf3,.zf6,.zf9{
+    font-size: 100%;
+  }
